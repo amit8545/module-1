@@ -1,0 +1,39 @@
+*{
+    margin:0.3rem;
+}
+header{
+    display:flex;
+    justify-content:space-between;
+    margin-left: 2%;
+}
+ul{
+    display:inline-flex;
+    justify-content: space-evenly;
+    width: 400px;
+    list-style-type:none;
+    font-size: x-large;
+    margin:0.1rem;
+}
+li:hover{
+    cursor: pointer;
+    color: red;
+
+}
+
+.one{
+    display: flex;
+}
+.one>div{
+    text-align:center;
+    font-size: large;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 3rem;
+    font-size: x-large;
+}
+footer>p{
+    padding: 0.7rem;
+}

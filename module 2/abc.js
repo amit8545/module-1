@@ -1,0 +1,1 @@
+consol.log("swagat hai apka);
